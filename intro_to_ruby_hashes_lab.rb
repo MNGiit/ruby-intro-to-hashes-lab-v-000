@@ -10,7 +10,6 @@ def monopoly
 	monopoly = {
 	  :railroads => {}
 	}
-	monopoly = monopoly[:railroads] = {}
 
 end
 
